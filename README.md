@@ -25,6 +25,14 @@ Geleneksel Türk Daması kurallarına göre oynanan ve Minimax algoritması kull
     *   **Görsel Temalar:** Klasik, Mavi, Ahşap ve Gri tema seçenekleri.
     *   **Tam Kural Seti:** Uçan dama, zorunlu alma (opsiyonel zincir) ve hareket kuralları.
 
+## 📸 Ekran Görüntüleri
+
+### Satranç Analiz Arayüzü
+![Satranç Analiz](screenshots/chess_preview.png)
+
+### Türk Daması
+![Türk Daması](screenshots/draughts_preview.png)
+
 ---
 
 ## ⚙️ Kurulum
