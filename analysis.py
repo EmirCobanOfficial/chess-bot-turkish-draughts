@@ -1,5 +1,5 @@
 # Project: Chess Bot Analysis Script
-# Author: [Adınız Soyadınız]
+# Author: Emir ÇOBAN
 # License: MIT License
 # Description: Command line interface for analyzing chess positions with Stockfish.
 
