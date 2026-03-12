@@ -84,7 +84,3 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için `LICENSE` dosya
 
 **Geliştirici:** Emir ÇOBAN
 ```
-
-<!--
-[PROMPT_SUGGESTION]Proje için gerekli kütüphaneleri içeren bir requirements.txt dosyası oluşturur musun?[/PROMPT_SUGGESTION]
-[PROMPT_SUGGESTION]Türk damasında 'zincirleme yeme' kuralını daha detaylı açıklayan bir yorum satırı ekleyebilir miyiz?[/PROMPT_SUGGESTION]
